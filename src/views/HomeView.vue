@@ -14,7 +14,7 @@
    <div class=" flex justify-center items-center mx-auto flex-col gap-y-2">
    <img src="../assets/tata4.jpeg" alt="" class=" flex items-center rounded-full h-30 w-40 ring-4 ring-blue-800  dark:ring-white">
   <h1 class="  text-blue-900   dark:text-gray-300 font-bold text-4xl  font-mono">The Amohan</h1>
-  <p class=" flex justify-center items-center text-white ">
+  <p class=" flex justify-center items-center text-yellow-500 ">
     This are our services
     <ul class="  text-yellow-500 pl-4">
       <li>Fair,Affordable and Negotiable prices</li>
