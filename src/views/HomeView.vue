@@ -16,7 +16,7 @@
   <h1 class="  text-blue-900   dark:text-gray-300 font-bold text-4xl  font-mono">The Amohan</h1>
   <p class=" flex justify-center items-center text-white ">
     This are our services
-    <ul class=" text-white pl-4">
+    <ul class="  text-yellow-500 pl-4">
       <li>Fair,Affordable and Negotiable prices</li>
       <li>We deliver in time</li>
       <li>We dont postpone work</li>
