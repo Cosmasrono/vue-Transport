@@ -10,7 +10,7 @@
    </div>
   
      <aside class=" md:mt-1 md:w-1/5   md:left top-1 md:ml-2 h-full  md:fixed md:min-h-screen md:flex justify-start " aria-label="Sidebar">
-  <div class="  overflow-y-auto py-2 rounded  dark:bg-slate-900 bg-white pb-40 mb-20 mt-36">
+  <div class="  overflow-y-auto py-2 rounded  dark:bg-slate-900 bg-white pb-40 mb-20 mt-40">
    <div class=" flex justify-center items-center mx-auto flex-col gap-y-2">
    <img src="../assets/tata4.jpeg" alt="" class=" flex items-center rounded-full h-30 w-40 ring-4 ring-blue-800  dark:ring-white">
   <h1 class="  text-blue-900   dark:text-gray-300 font-bold text-4xl  font-mono">The Amohan</h1>
@@ -28,11 +28,11 @@
    </div>
   </div>
       </aside>
-      <div class=" ml-72 text-2xl text-black">
+      <div class=" md:ml-72 text-2xl text-black">
       <p>we are working over 12 hours a day to ensure that we deliver our promises approprietly as agreed with our clients  meaning we do not postpone any work given</p>
       <p>we are located within nakuru but we offer our services to all counties within a country</p>
       </div>
-      <div class=" pt-3  bg-slate-900 mt-3  hover:scale-90 ml-72">
+      <div class=" pt-3  bg-slate-900 mt-3  hover:scale-90 md:ml-72">
       <div class=" flex  flex-col md:flex-row justify-center items-center m-5 ">  
       <div class=" transition-all duration-500 transform hover:opacity-50 pt-1 hover:pb-1">
         <img src="../assets/tata2.jpeg" alt="" class="  w-56 md:mr-80">
@@ -44,7 +44,7 @@
       </div>
       <div class=" md:left-24 ">
         <div class=" md:flex-row w-full justify-center items-center md:min-h-screen relative ">
-      <div class=" pt-3  bg-slate-900 mt-3  hover:scale-90 ml-72">
+      <div class=" pt-3  bg-slate-900 mt-3  hover:scale-90 md:ml-72">
       <div class=" flex  flex-col md:flex-row justify-center items-center ">  
       <div class=" transition-all duration-500 transform hover:opacity-50 pt-1 hover:pb-1">
         <img src="../assets/tata1.jpeg" alt="" class="  w-56 md:mr-80">
@@ -55,7 +55,7 @@
       </div>
       </div>
 
-      <div class=" pt-3  bg-slate-900 mt-3  hover:scale-90 ml-72">
+      <div class=" pt-3  bg-slate-900 mt-3  hover:scale-90 md:ml-72">
       <div class=" flex  flex-col md:flex-row justify-center items-center m-5 ">  
       <div class=" transition-all duration-500 transform hover:opacity-50 pt-1 hover:pb-1">
         <img src="../assets/tata3.jpeg" alt="" class="  w-56 md:mr-80">
@@ -67,5 +67,34 @@
       </div>
         </div>
       </div>
+      
+<footer class=" md:gap-2 md:ml-72 p-4 bg-white rounded-lg shadow md:flex md:items-center md:justify-between md:p-6 dark:bg-gray-900">
+    <span class=" text-sm text-gray-500 sm:text-center dark:text-gray-400">© 2022 <a href="https://flowbite.com/" class="hover:underline">@cossi wing001</a>. All Rights Reserved.
+    </span>
+    <ul class=" flex flex-wrap items-center text-sm text-gray-500 dark:text-gray-400 sm:mt-0">
+       <li>
+            <a href="#" class=" hover:underline md:mr-6 flex flex-row">
+             <!--  <img src="../assets/facebook.png"> -->
+              Facebook</a>
+        </li>
+        <li>
+            <a href="#" class=" hover:underline md:mr-6 ">Whatsapp</a>
+        </li>
+        <li>
+            <a href="#" class=" hover:underline md:mr-6 ">About</a>
+        </li>
+        <li>
+            <a href="#" class=" mr-4 hover:underline md:mr-6">Privacy Policy</a>
+        </li>
+        <li>
+            <a href="#" class=" mr-4 hover:underline md:mr-6">Licensing</a>
+        </li>
+        <li>
+            <a href="https://web.whatsapp.com/" class=" hover:underline">Contact</a>
+        </li>
+       
+    </ul>
+</footer>
+
   </main>
 </template>

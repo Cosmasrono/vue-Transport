@@ -5,13 +5,15 @@ import HelloWorld from './components/HelloWorld.vue'
 
 <template>
   <main class=" ">
-<div class=" mb-4"> 
+
   <h1 class=" flex items-center justify-start bg-slate-900 text-white text-xl pr-2 m-2">In time we deliver
             </h1>  
-        <nav class=" flex items-center justify-end  text-3xl text-green-800 bg-slate-900 ml-3"> 
-        <RouterLink to="/">Home</RouterLink>
-        <RouterLink to="/about">About</RouterLink>
-        <RouterLink to="/Services">Services</RouterLink>
+       <div class=" mb-4 "> 
+        <nav class=" flex items-center justify-end  text-3xl text-white bg-slate-900 ml-3 "> 
+        <RouterLink to="/" class=" m-2 p-10 text-white rounded-xl transition-all duration-500 bg-gradient-to-br to-white via-black from-red-500 bg-size-200 hover:bg-right-bottom">Home</RouterLink>
+        <RouterLink to="/about" class=" m-2 p-10 text-white rounded-xl transition-all duration-500 bg-gradient-to-br to-white via-black from-red-500 bg-size-200 hover:bg-right-bottom">About</RouterLink>
+        <RouterLink to="/Services" class=" m-2 p-10 text-white rounded-xl transition-all duration-500 bg-gradient-to-br to-white via-black from-red-500 bg-size-200 hover:bg-right-bottom">Services</RouterLink> 
+        <p class=" flex flex-row hover:bg-black"><img src="../src/assets/call.png" class="">+254757450716</p>
       </nav>
      
 
