@@ -24,7 +24,7 @@
     </ul>
                        
                    </p> 
-                   <button class=" transform h-14 bg-blue-700 transition duration-500 hover:scale-125 hover:bg-blue-700 flex justify-center items-center text-white flex-col rounded-md px-5 py-3"><a href="sms:254758822001?body=">Click to Hire me</a></button>
+                   <button class=" transform h-14 bg-blue-700 transition duration-500 hover:scale-125 hover:bg-blue-700 flex justify-center items-center text-white flex-col rounded-md px-5 py-3"><a href="sms:254758822001?body=Hello Amohan,,i need youy servives">Click to Hire me</a></button>
    </div>
   </div>
       </aside>
