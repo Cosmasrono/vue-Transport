@@ -3,7 +3,7 @@
 
 <template>
   <main>
-        <h class=" text-3xl flex items-center justify-center">Welcome to Amohan Campany</h> 
+        <h class=" text-3xl flex items-center justify-center">Welcome to Amohan Company</h> 
     <div class=" text-black text-xl  md:mt-1 md:left top-1 md:ml-2  md:relative  md:flex ml-32 ">
       <div class=" ml-72"><img src="../assets/tata.jpg" class="  ">
     </div>
