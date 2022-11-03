@@ -5,12 +5,12 @@
   <main>
         <h class=" text-3xl flex items-center justify-center">Welcome to Amohan Campany</h> 
     <div class=" text-black text-xl  md:mt-1 md:left top-1 md:ml-2  md:relative  md:flex ml-32 ">
-      <div class=" ml-72 mr-6"><img src="../assets/tata.jpg" class="  h-full w-full ">
+      <div class=" ml-72"><img src="../assets/tata.jpg" class="  ">
     </div>
    </div>
   
      <aside class=" md:mt-1 md:w-1/5   md:left top-1 md:ml-2 h-full  md:fixed md:min-h-screen md:flex justify-start " aria-label="Sidebar">
-  <div class="  overflow-y-auto py-2 rounded  dark:bg-slate-900 bg-white pb-40 mb-20 mt-40">
+  <div class="  overflow-y-auto py-2 rounded  dark:bg-slate-900 bg-white pb-40 mb-3 mt-40">
    <div class=" flex justify-center items-center mx-auto flex-col gap-y-2">
    <img src="../assets/tata4.jpeg" alt="" class=" flex items-center rounded-full h-30 w-40 ring-4 ring-blue-800  dark:ring-white">
   <h1 class="  text-blue-900   dark:text-gray-300 font-bold text-4xl  font-mono">The Amohan</h1>
@@ -24,7 +24,7 @@
     </ul>
                        
                    </p> 
-                   <button class=" flex items-center justify-center text-white bg-blue-700 flex-col rounded-md px-5 py-3"><a href="mailto:ccosmas001@gmail.com" class="">Hire me</a></button>
+                   <button class=" transform h-14 bg-blue-700 transition duration-500 hover:scale-125 hover:bg-blue-700 flex justify-center items-center text-white flex-col rounded-md px-5 py-3"><a href="mailto:ccosmas001@gmail.com" class=""> Click to Hire me</a></button>
    </div>
   </div>
       </aside>
